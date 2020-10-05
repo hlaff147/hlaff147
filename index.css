@@ -1,0 +1,57 @@
+img    {
+    border-radius: 50%;
+    border-width: thin; border-color: rgb(37, 46, 85);
+    border: 6px solid;
+}
+a { color: white; 
+    text-decoration:none;
+} 
+
+.navemae{
+    background-color: rgb(37, 46, 85);
+    width: 100%;height: 20%;
+    margin: 0;
+    padding: 0
+    
+}
+body { margin:0px;
+        background-color: bisque;    
+
+
+}
+h5{
+    text-align: left;
+
+}
+.ÁreasdeInteresseProfissional{
+    text-align: left;
+
+}
+.Hobbies{
+    text-align: left;
+
+}
+.ObjetivoseSonhos{
+    text-align: left;
+}
+#container  {  	
+	margin: 1em auto;  	
+	width: 100%;  	
+    background: bisque;
+    text-align: le;  
+    }
+#partcima {  	
+        float: left;  	
+        width: 50%;  	
+        background: bisque;  
+        }   
+
+#fotosdireita  {  	
+	float: right;  	
+	width: 50%;  	
+	background: bisque;  	
+	margin: 0 0 0 0;  
+    }   
+#textobaixo{
+
+}
