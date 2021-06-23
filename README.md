@@ -41,5 +41,3 @@ I'm a technician in systems analysis and development at ETEMB and a computer sci
  - **Data Science**<br />
    - Machine Learning<br />
    - Artificial Intelligence<br />
-#### Thanks for visiting :heart:<br />
-![VisitorCount](https://profile-counter.glitch.me/hlaff147/count.svg)
