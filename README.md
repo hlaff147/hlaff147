@@ -16,7 +16,14 @@ I'm a technician in systems analysis and development at ETEMB and a computer sci
 - ⚡ Fun fact: I didn't like cats but after I had contact, I loved it
 
 ### My skills :
-- **Competitive Coding**
+- **Competitive Coding**<br />
+   - Introduction to Programming
+   - Algorithms and data structures 
+- **Data Science**<br />
+   - Machine Learning
+   - Artificial Intelligence
+   - Data Visualization
+   - Data Analysis
 <table>
 <tbody>
  <tr>
@@ -26,8 +33,3 @@ I'm a technician in systems analysis and development at ETEMB and a computer sci
   </tr>
 </tbody>
 </table>
-- **Data Science**<br />
-   - Machine Learning<br />
-   - Artificial Intelligence<br />
-   - Data Visualization<br />
-   - Data Analysis
