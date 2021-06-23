@@ -6,4 +6,24 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCVvviR4KQTctIGx3CXXlRbw)](https://www.youtube.com/channel/UCVvviR4KQTctIGx3CXXlRbw)
 
 ### About me
-I'm a technician in systems analysis and development at ETEMB and a computer science student at CIn UFPE
+I'm a technician in systems analysis and development at ETEMB and a computer science💻 student at CIn UFPE
+
+- 🌱 I’m currently learning Data Science, Pandas,Numpy
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+### My skills :
+- **Competitive Coding**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+</td>
+  </tr>
+</tbody>
+</table>
