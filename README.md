@@ -38,6 +38,6 @@ I'm a technician in systems analysis and development at ETEMB and a computer sci
 </tr>
 </tbody>
 </table>
- - **Data Science**
-   - Machine Learning
-   - Artificial Intelligence
+ - **Data Science**<br />
+   - Machine Learning<br />
+   - Artificial Intelligence<br />
