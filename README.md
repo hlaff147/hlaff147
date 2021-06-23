@@ -21,7 +21,7 @@ I'm a technician in systems analysis and development at ETEMB and a computer sci
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+<img height=60px src="https://www.python.org/"> 
 </td>
   </tr>
 </tbody>
@@ -33,7 +33,7 @@ I'm a technician in systems analysis and development at ETEMB and a computer sci
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+<img height=60px src="https://www.python.org/"> 
 </td>
 </tr>
 </tbody>
@@ -41,3 +41,5 @@ I'm a technician in systems analysis and development at ETEMB and a computer sci
  - **Data Science**<br />
    - Machine Learning<br />
    - Artificial Intelligence<br />
+#### Thanks for visiting :heart:<br />
+![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
