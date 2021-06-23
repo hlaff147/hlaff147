@@ -9,12 +9,11 @@
 I'm a technician in systems analysis and development at ETEMB and a computer science💻 student at CIn UFPE
 
 - 🌱 I’m currently learning Data Science, Pandas,Numpy
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I'm looking to collaborate in everything I can.
+- 🤔 I'm looking for help with C++, Java and Frameworks.
+- 💬 Ask me about Python, Logic, Algorithms
+- 📫 How to reach me: hlaff@cin.ufpe.br
+- ⚡ Fun fact: I didn't like cats but after I had contact, I loved it
 
 ### My skills :
 - **Competitive Coding**
@@ -25,5 +24,17 @@ I'm a technician in systems analysis and development at ETEMB and a computer sci
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
   </tr>
+</tbody>
+</table>
+- **Data Science**
+  - Data Visualization
+  - Data Analysis
+ <table>
+<tbody>
+ <tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+</td>
+</tr>
 </tbody>
 </table>
