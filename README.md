@@ -26,7 +26,7 @@ I'm a technician in systems analysis and development at ETEMB and a computer sci
   </tr>
 </tbody>
 </table>
-- **Data Science**
+- **Data Science**<br />
   - Data Visualization
   - Data Analysis
  <table>
