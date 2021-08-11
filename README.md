@@ -31,10 +31,8 @@ I'm a technician in systems analysis and development at ETEMB and a computer sci
 ⚙️ &nbsp;GitHub Analytics
 <div>
 <p align="left">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=artn-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hlaff147&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hlaff147&layout=compact&langs_count=8&theme=nord"/> 
 </p>
  </div>
-
-   
 ---
