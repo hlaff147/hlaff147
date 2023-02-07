@@ -8,17 +8,15 @@
 ### About me
 I'm a technician in systems analysis and development at ETEMB and a computer science💻 student at CIn UFPE
 
-- 🌱 I’m currently learning Angular, NodeJs, TypeScript
+- 🌱 I’m currently learning Pandas, Scikit-learn e Numpy
 - 👯 I'm looking to collaborate in everything I can.
-- 🤔 I'm looking for help with C++, Java and Frameworks.
+- 🤔 I'm looking for help with Data Scince, Machine Learning and Big Data.
 - 💬 Ask me about Python, Django, Algorithms and Web Development
 - 📫 How to reach me: hlaff@cin.ufpe.br
 - ⚡ Fun fact: I didn't like cats but after I had contact, I loved it
 
 ### 🛠 &nbsp;Tech Stack
-![Windows](https://img.shields.io/badge/Windows-05122A?style=flat&logo=Windows&logoColor=1572B6)&nbsp;
 ![Ubuntu](	https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=1572B6)&nbsp;
-![Debian](	https://img.shields.io/badge/Debian-05122A?style=flat&logo=debian&logoColor=1572B6)&nbsp;\
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)\
@@ -30,7 +28,6 @@ I'm a technician in systems analysis and development at ETEMB and a computer sci
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
 ⚙️ &nbsp;GitHub Analytics
 <div>
