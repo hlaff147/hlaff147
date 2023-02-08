@@ -6,28 +6,11 @@
 
 
 ### About me
-I'm a technician in systems analysis and development at ETEMB and a computer science💻 student at CIn UFPE
+🎓 Currently studying a bachelor's degree in Computer Science at Federal University of Pernambuco. 
 
-- 🌱 I’m currently learning Pandas, Scikit-learn e Numpy
-- 👯 I'm looking to collaborate in everything I can.
-- 🤔 I'm looking for help with Data Scince, Machine Learning and Big Data.
-- 💬 Ask me about Python, Django, Algorithms and Web Development
-- 📫 How to reach me: hlaff@cin.ufpe.br
-- ⚡ Fun fact: I didn't like cats but after I had contact, I loved it
+📊 Data and AI enthusiast with a love for fusing data with intelligence and creating plans that harness the full potential of the data to make the future ever-smarter. 
 
-### 🛠 &nbsp;Tech Stack
-![Ubuntu](	https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=1572B6)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB&logoColor=1572B6)&nbsp;\
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)\
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+⚙️ Stack: Python, SQL, Git, Scikit-learn, Tensorflow, PyTorch, Pandas, Matplotlib, Seaborn, Plotly, Numpy and AWS.
 
 ⚙️ &nbsp;GitHub Analytics
 <div>
