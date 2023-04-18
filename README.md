@@ -10,7 +10,7 @@
 
 📊 Data and AI enthusiast with a love for fusing data with intelligence and creating plans that harness the full potential of the data to make the future ever-smarter. 
 
-⚙️ Stack: Python, SQL, Git, Scikit-learn, Pandas, Matplotlib, Seaborn, Plotly, Numpy, Angular, HTML, CSS and AWS.
+⚙️ Stack: Python, Django, Java, Spring, SQL, Git, Scikit-learn, Pandas, Matplotlib, Seaborn, Plotly, Numpy, Angular, HTML, CSS and AWS.
 
 ⚙️ &nbsp;GitHub Analytics
 <div>
