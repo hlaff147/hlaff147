@@ -6,11 +6,19 @@
 
 
 ### About me
-🎓 Currently studying a bachelor's degree in Computer Science at Federal University of Pernambuco. 
+🎓 Graduating with a bachelor's degree in Computer Science from the Federal University of Pernambuco.
 
-📊 Data and AI enthusiast with a love for fusing data with intelligence and creating plans that harness the full potential of the data to make the future ever-smarter. 
+👨‍💻 Currently employed as a Software Engineer at Bradesco, one of Brazil's largest banks, focusing on Open Finance. My work involves crafting microservices using Java, Spring, MongoDB, Kafka, and Azure, to drive innovation in the financial sector.
 
-⚙️ Stack: Python, Django, Java, Spring, SQL, Git, Scikit-learn, Pandas, Matplotlib, Seaborn, Angular, HTML, CSS, GCP and AWS.
+👨‍💼 Also a graduate in Analysis and Systems Development.
+
+📚 Passionate about Clean Code, Data Science, and the continuous pursuit of excellence in Software Engineering.
+
+🚀 Certifications: AZ-900 and DP-900, with preparation for AZ-204 underway.
+
+⚙️ Stack: Java, Spring, MongoDB, Kafka, Azure, Python, Django, SQL, Git, Scikit-learn, Pandas, Matplotlib, Seaborn, and AWS.
+
+📊 Data and AI enthusiast with a love for fusing data with intelligence and creating plans that harness the full potential of the data to make the future ever-smarter.
 
 ⚙️ &nbsp;GitHub Analytics
 <div>
