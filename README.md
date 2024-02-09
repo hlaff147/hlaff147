@@ -14,7 +14,7 @@
 
 📚 Passionate about Clean Code, Data Science, and the continuous pursuit of excellence in Software Engineering.
 
-🚀 Certifications: AZ-900 and DP-900, with preparation for AZ-204 underway.
+🚀 Certifications: AZ-900 with preparation for DP-900 underway.
 
 ⚙️ Stack: Java, Spring, MongoDB, Kafka, Azure, Python, Django, SQL, Git, Scikit-learn, Pandas, Matplotlib, Seaborn, and AWS.
 
