@@ -14,7 +14,7 @@
 
 📚 Passionate about Clean Code, Data Science, and relentlessly pursuing excellence in Software Engineering.
 
-🚀 Certified in AZ-900 with ongoing preparation for DP-900.
+🚀 Certified in AZ-900, DP-900 with ongoing preparation for AZ-104.
 
 ⚙️ Proficient in a wide array of technologies including Java, Spring, MongoDB, Kafka, Azure, Python, Django, SQL, Git, Scikit-learn, Pandas, Matplotlib, Seaborn, and AWS.
 
