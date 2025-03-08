@@ -6,19 +6,19 @@
 
 
 ### About me
-🎓 Graduating with a bachelor's degree in Computer Science from the Federal University of Pernambuco.
+🎓 Completing a Bachelor's in Computer Science at the Federal University of Pernambuco (CIn-UFPE), gaining deep expertise in algorithms, data structures, advanced mathematics, and software engineering.
 
-👨‍💻 Currently employed as a Software Engineer at Bradesco, one of Brazil's largest banks, specializing in Open Finance. I architect and develop microservices utilizing Java, Spring, MongoDB, Kafka, and Azure, driving innovation within the financial sector.
+👨‍💻 Software Engineer at Bradesco, specializing in Open Finance. I architect innovative microservices using Java, Spring, MongoDB, Kafka, and Azure. Passionate about enhancing software engineering workflows through LLM Engineering, GenAI, LangChain, and CrewAI, transforming complex processes into efficient, intelligent solutions.
 
-👨‍💼 Additionally, I hold a degree as a Technician in Analysis and Systems Development.
+👨‍💼 Also hold a Technical Diploma in Analysis and Systems Development, reflecting extensive experience in back-end development, system analysis, and data management.
 
-📚 Passionate about Clean Code, Data Science, and relentlessly pursuing excellence in Software Engineering.
+📚 Advocate of Clean Code, AI, and Data Science, continuously refining my skills through projects and exploring emerging technologies.
 
-🚀 Certified in AZ-900, DP-900 with ongoing preparation for AZ-104.
+🚀 Certified in AZ-900 and DP-900, currently pursuing AZ-204, committed to ongoing professional development.
 
-⚙️ Proficient in a wide array of technologies including Java, Spring, MongoDB, Kafka, Azure, Python, Django, SQL, Git, Scikit-learn, Pandas, Matplotlib, Seaborn, and AWS.
+⚙️ Skilled in Java, Spring, MongoDB, Kafka, Azure, Python, Django, SQL, Git, Scikit-learn, Pandas, Matplotlib, and AWS, focused on building scalable and performant systems.
 
-📊 Data and AI enthusiast with a fervent commitment to leveraging data intelligently, driving towards a future where data empowers smarter decision-making and innovation.
+📊 Enthusiastic about leveraging Data and AI to enable insightful decision-making and innovative, tech-driven solutions.
 
 ⚙️ &nbsp;GitHub Analytics
 <div>
