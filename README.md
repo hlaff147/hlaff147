@@ -8,15 +8,15 @@
 ### About me
 🎓 Completing a Bachelor's in Computer Science at the Federal University of Pernambuco (CIn-UFPE), gaining deep expertise in algorithms, data structures, advanced mathematics, and software engineering.
 
-👨‍💻 Software Engineer at Bradesco, specializing in Open Finance. I architect innovative microservices using Java, Spring, MongoDB, Kafka, and Azure. Passionate about enhancing software engineering workflows through LLM Engineering, GenAI, LangChain, and CrewAI, transforming complex processes into efficient, intelligent solutions.
+👨‍💻 As a Software Engineer at Bradesco, I specialize in Open Finance, architecting innovative microservices for payments. I leverage cutting-edge technologies including Spring, Azure, Kafka, Redis, MongoDB, and Cosmos DB for system integration, database management, and deployment. I've significantly boosted productivity by engineering advanced prompts to automate Java service migration from Bitbucket/Bamboo to GitHub/Argo CD, and developed automated reports using Azure, KQL, and Workbook for timely Central Bank submissions. My work has reached millions of Brazilians, enhancing financial accessibility and efficiency on a large scale.
 
-👨‍💼 Also hold a Technical Diploma in Analysis and Systems Development, reflecting extensive experience in back-end development, system analysis, and data management.
+👨‍💼 Also hold a Technical Diploma in Systems Analysis and Development from ETE Miguel Batista, reflecting extensive experience in back-end development, system analysis, and data management.
 
 📚 Advocate of Clean Code, AI, and Data Science, continuously refining my skills through projects and exploring emerging technologies.
 
 🚀 Certified in AZ-900 and DP-900, currently pursuing AZ-204, committed to ongoing professional development.
 
-⚙️ Skilled in Java, Spring, MongoDB, Kafka, Azure, Python, Django, SQL, Git, Scikit-learn, Pandas, Matplotlib, and AWS, focused on building scalable and performant systems.
+⚙️ Skilled in Java, Spring, MongoDB, Kafka, Azure, Python, Django, SQL, Git, Scikit-learn, Pandas, Matplotlib, AWS, Frontend, React, and Angular, focused on building scalable and performant systems.
 
 📊 Enthusiastic about leveraging Data and AI to enable insightful decision-making and innovative, tech-driven solutions.
 
