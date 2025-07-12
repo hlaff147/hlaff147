@@ -12,13 +12,13 @@
 
 👨‍💼 Also hold a Technical Diploma in Systems Analysis and Development from ETE Miguel Batista, reflecting extensive experience in back-end development, system analysis, and data management.
 
-📚 Advocate of Clean Code, AI, and Data Science, continuously refining my skills through projects and exploring emerging technologies.
+📚 Advocate of Clean Code, and deeply enthusiastic about AI's impact on Software Engineering, continuously refining my skills through projects and exploring emerging technologies like LLM Engineering.
 
 🚀 Certified in AZ-900 and DP-900, currently pursuing AZ-204, committed to ongoing professional development.
 
-⚙️ Skilled in Java, Spring, MongoDB, Kafka, Azure, Python, Django, SQL, Git, Scikit-learn, Pandas, Matplotlib, AWS, Frontend, React, and Angular, focused on building scalable and performant systems.
+⚙️ Skilled in Java, Spring, Go, Golang, Gorm, MongoDB, Kafka, Azure, Python (including experience with Pandas and LLMs), Django, SQL, AWS, Frontend, React, and Angular, focused on building scalable and performant systems.
 
-📊 Enthusiastic about leveraging Data and AI to enable insightful decision-making and innovative, tech-driven solutions.
+📊 Enthusiastic about leveraging Data and AI to enable insightful decision-making and innovative, tech-driven solutions, and actively preparing for the evolving landscape of AI-driven software development.
 
 ⚙️ &nbsp;GitHub Analytics
 <div>
