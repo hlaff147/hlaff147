@@ -6,19 +6,11 @@
 
 
 ### About me
-🎓 Completing a Bachelor's in Computer Science at the Federal University of Pernambuco (CIn-UFPE), gaining deep expertise in algorithms, data structures, advanced mathematics, and software engineering.
+Software Engineer 👨‍💻 with a comprehensive skill set in backend development, system analysis, and data management, currently contributing to Open Finance 💰 initiatives at Bradesco. I design and implement scalable microservices using Spring, Azure, Kafka, and NoSQL databases, and have a track record of enhancing operational efficiency through automation 🚀.
 
-👨‍💻 As a Software Engineer at Bradesco, I specialize in Open Finance, architecting innovative microservices for payments. I leverage cutting-edge technologies including Spring, Azure, Kafka, Redis, MongoDB, and Cosmos DB for system integration, database management, and deployment. I've significantly boosted productivity by engineering advanced prompts to automate Java service migration from Bitbucket/Bamboo to GitHub/Argo CD, and developed automated reports using Azure, KQL, and Workbook for timely Central Bank submissions. My work has reached millions of Brazilians, enhancing financial accessibility and efficiency on a large scale.
+My work has a direct impact on millions of Brazilians 🇧🇷, improving financial accessibility and efficiency on a large scale.
 
-👨‍💼 Also hold a Technical Diploma in Systems Analysis and Development from ETE Miguel Batista, reflecting extensive experience in back-end development, system analysis, and data management.
-
-📚 Advocate of Clean Code, and deeply enthusiastic about AI's impact on Software Engineering, continuously refining my skills through projects and exploring emerging technologies like LLM Engineering.
-
-🚀 Certified in AZ-900 and DP-900, currently pursuing AZ-204, committed to ongoing professional development.
-
-⚙️ Skilled in Java, Spring, Go, Golang, Gorm, MongoDB, Kafka, Azure, Python (including experience with Pandas and LLMs), Django, SQL, AWS, Frontend, React, and Angular, focused on building scalable and performant systems.
-
-📊 Enthusiastic about leveraging Data and AI to enable insightful decision-making and innovative, tech-driven solutions, and actively preparing for the evolving landscape of AI-driven software development.
+With a strong foundation from a Computer Science degree at UFPE 🎓 and a technical diploma, I am proficient in Java, Python, SQL, and cloud platforms like Azure and AWS ☁️. Passionate about Clean Code 📚 and the transformative potential of AI in software engineering 🤖, continuously exploring LLM Engineering and preparing for future tech advancements.
 
 ⚙️ &nbsp;GitHub Analytics
 <div>
