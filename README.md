@@ -6,20 +6,26 @@
 
 
 ### About me
-Software Engineer with over 3 years of experience mainly focused on backend development, working on highly available solutions. I have a Computer Science degree from UFPE and a technical diploma in Systems Analysis and Development from ETE Miguel Batista. I also hold Microsoft Azure certifications (AZ-900 and DP-900 ).
+Software Engineer with over 3 years of experience mainly focused on backend development, working on highly available solutions. I have a Computer Science degree from UFPE and a technical diploma in Systems Analysis and Development from ETE Miguel Batista. I also hold Microsoft Azure certifications (AZ-900 and DP-900).
 
-My main expertise is in Java, using Spring for microservices development , and Python for machine learning and data analysis.
+My main expertise is in Java, using Spring for microservices development, and Python for machine learning and data analysis.
 
-Hard Skills:
-Backend: APIs (REST, GraphQL, GRPC), async communication (Kafka ), cache (Redis ), SQL (MySQL ), NoSQL (MongoDB , Cosmos DB ).
-Architecture: Microservices, Clean Architecture, Domain-Driven Design (DDD).
-DevOps: CI/CD (GitHub/Argo CD ), Terraform, Kubernetes.
-Cloud: Azure , AWS.
-Monitoring: Dynatrace, Azure App Insights, Azure Log Analytics.
-Frontend: ReactJS , Angular.
+**Hard Skills:**
 
-Key Competencies 💎
-Java • Python • Azure • Kafka • MongoDB • Cosmos DB • Machine Learning • Data Analysis • SQL • AWS • Microservices • System Integration • Database Management • Prompt Engineering  • Clean Architecture • Domain-Driven Design (DDD) • Dynatrace • Azure App Insights • Azure Log Analytics
+* **Backend:** APIs (REST, GraphQL, GRPC), async communication (Kafka), cache (Redis), SQL (MySQL), NoSQL (MongoDB, Cosmos DB).
+
+* **Architecture:** Microservices, Clean Architecture, Domain-Driven Design (DDD).
+
+* **DevOps:** CI/CD (GitHub/Argo CD), Terraform, Kubernetes.
+
+* **Cloud:** Azure, AWS.
+
+* **Monitoring:** Dynatrace, Azure App Insights, Azure Log Analytics.
+
+* **Frontend:** ReactJS, Angular.
+
+**Key Competencies** 💎
+Java • Python • Azure • Kafka • MongoDB • Cosmos DB • Machine Learning • Data Analysis • SQL • AWS • Microservices • System Integration • Database Management • Prompt Engineering • Clean Architecture • Domain-Driven Design (DDD) • Dynatrace • Azure App Insights • Azure Log Analytics
 
 ⚙️ &nbsp;GitHub Analytics
 <div>
