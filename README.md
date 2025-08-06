@@ -6,26 +6,30 @@
 
 
 ### About me
-Software Engineer with over 3 years of experience mainly focused on backend development, working on highly available solutions. I have a Computer Science degree from UFPE and a technical diploma in Systems Analysis and Development from ETE Miguel Batista. I also hold Microsoft Azure certifications (AZ-900 and DP-900).
+Software Engineer with over 3 years of experience specializing in building high-availability backend systems for the FinTech industry. I am passionate about solving complex challenges within the Open Finance ecosystem and leveraging technology to deliver scalable, impactful solutions. My experience spans the entire software development lifecycle, from architectural design and development to deployment and automation.
 
-My main expertise is in Java, using Spring for microservices development, and Python for machine learning and data analysis.
+**Core Areas of Expertise & Achievements:**
 
-**Hard Skills:**
+**🚀 Backend Engineering & Open Finance:**
 
-* **Backend:** APIs (REST, GraphQL, GRPC), async communication (Kafka), cache (Redis), SQL (MySQL), NoSQL (MongoDB, Cosmos DB).
+* Expert in designing and developing secure, high-performance microservices using **Java** and the **Spring** ecosystem.
+* Deep, hands-on experience in the **Open Finance** domain, responsible for payment initiation APIs and consent management systems that have reached millions of users across Brazil.
+* Proficient in asynchronous communication with **Kafka**, caching strategies with **Redis**, and managing both **SQL (MySQL)** and **NoSQL (MongoDB, Cosmos DB)** databases in production environments on **Azure**.
 
-* **Architecture:** Microservices, Clean Architecture, Domain-Driven Design (DDD).
+**💡 DevOps & Automation Innovation:**
 
-* **DevOps:** CI/CD (GitHub/Argo CD), Terraform, Kubernetes.
+* Proven ability to drive efficiency and innovation. Engineered an advanced **prompt** to automate the migration of Java services from Bitbucket/Bamboo to **GitHub/Argo CD**, resulting in a massive productivity gain.
+* Skilled in creating and managing **CI/CD** pipelines, containerization with **Docker**, and orchestration with **Kubernetes**.
+* Developed automated reports using **Azure KQL** and created complex **Postman collections** to streamline testing workflows and ensure regulatory compliance.
 
-* **Cloud:** Azure, AWS.
+**🛠️ Technical Competencies:**
 
-* **Monitoring:** Dynatrace, Azure App Insights, Azure Log Analytics.
-
-* **Frontend:** ReactJS, Angular.
-
-**Key Competencies** 💎
-Java • Python • Azure • Kafka • MongoDB • Cosmos DB • Machine Learning • Data Analysis • SQL • AWS • Microservices • System Integration • Database Management • Prompt Engineering • Clean Architecture • Domain-Driven Design (DDD) • Dynatrace • Azure App Insights • Azure Log Analytics
+* **Backend:** Java, Spring Boot, Python, APIs (REST, GraphQL, gRPC)
+* **Messaging & Cache:** Kafka, Redis
+* **Databases:** MySQL, MongoDB, Cosmos DB
+* **DevOps & Cloud:** Kubernetes, Docker, Terraform, CI/CD (GitHub/Argo CD), Azure, AWS
+* **Monitoring:** Dynatrace, Azure App Insights, Azure Log Analytics
+* **Specialties:** Microservices Architecture, Domain-Driven Design (DDD), Prompt Engineering, System Integration
 
 ⚙️ &nbsp;GitHub Analytics
 <div>
