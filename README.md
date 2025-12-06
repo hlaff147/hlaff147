@@ -5,31 +5,31 @@
 
 
 
-### About me
-Software Engineer with over 3 years of experience specializing in building high-availability backend systems for the FinTech industry. I am passionate about solving complex challenges within the Open Finance ecosystem and leveraging technology to deliver scalable, impactful solutions. My experience spans the entire software development lifecycle, from architectural design and development to deployment and automation.
+### Hi there, I'm Humberto Lima! 👋
 
-**Core Areas of Expertise & Achievements:**
+**Software Engineer | AI Researcher | Open Finance Specialist**
 
-**🚀 Backend Engineering & Open Finance:**
+Senior Software Engineer with extensive experience building high-availability backend systems for FinTechs. I bridge the gap between robust software architecture and applied Artificial Intelligence, leveraging deep technical expertise to solve complex engineering problems.
 
-* Expert in designing and developing secure, high-performance microservices using **Java** and the **Spring** ecosystem.
-* Deep, hands-on experience in the **Open Finance** domain, responsible for payment initiation APIs and consent management systems that have reached millions of users across Brazil.
-* Proficient in asynchronous communication with **Kafka**, caching strategies with **Redis**, and managing both **SQL (MySQL)** and **NoSQL (MongoDB, Cosmos DB)** databases in production environments on **Azure**.
+---
 
-**💡 DevOps & Automation Innovation:**
+### 🔭 **Current Focus**
+I am currently deepening my expertise in **AI Engineering**, specifically:
+* **Autonomous Agents:** Building multi-agent systems and tool-use capabilities.
+* **Google GenAI SDK:** Exploring Gemini features for long-context reasoning.
+* **RAG Systems:** Advanced retrieval strategies for enterprise context.
 
-* Proven ability to drive efficiency and innovation. Engineered an advanced **prompt** to automate the migration of Java services from Bitbucket/Bamboo to **GitHub/Argo CD**, resulting in a massive productivity gain.
-* Skilled in creating and managing **CI/CD** pipelines, containerization with **Docker**, and orchestration with **Kubernetes**.
-* Developed automated reports using **Azure KQL** and created complex **Postman collections** to streamline testing workflows and ensure regulatory compliance.
+---
 
-**🛠️ Technical Competencies:**
+### 🛠️ **Tech Stack**
 
-* **Backend:** Java, Spring Boot, Python, APIs (REST, GraphQL, gRPC)
-* **Messaging & Cache:** Kafka, Redis
-* **Databases:** MySQL, MongoDB, Cosmos DB
-* **DevOps & Cloud:** Kubernetes, Docker, Terraform, CI/CD (GitHub/Argo CD), Azure, AWS
-* **Monitoring:** Dynatrace, Azure App Insights, Azure Log Analytics
-* **Specialties:** Microservices Architecture, Domain-Driven Design (DDD), Prompt Engineering, System Integration
+* **Languages:** Java, Python, Go, SQL.
+* **Frameworks:** Spring Boot, Django, LangChain, TensorFlow, Keras.
+* **Cloud & DevOps:** Azure, AWS, Docker, Kubernetes, Terraform, ArgoCD.
+* **Data & AI:** Kafka, Redis, Pandas, DuckDB, OpenAI API, Google GenAI.
+---
+
+[![](https://visitcount.itsvg.in/api?id=hlaff147&label=Profile%20Views&color=0&icon=0&pretty=true)](https://github.com/hlaff147)
 
 ⚙️ &nbsp;GitHub Analytics
 <div>
@@ -38,4 +38,3 @@ Software Engineer with over 3 years of experience specializing in building high-
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hlaff147&layout=compact&langs_count=8&theme=nord"/> 
 </p>
  </div>
----
