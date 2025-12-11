@@ -7,7 +7,7 @@
 
 ### Hi there, I'm Humberto Lima! 👋
 
-**Software Engineer | AI Researcher | Open Finance Specialist**
+**Software Engineer | AI Enthusiast**
 
 Software Engineer with extensive experience building high-availability backend systems for FinTechs. I bridge the gap between robust software architecture and applied Artificial Intelligence, leveraging deep technical expertise to solve complex engineering problems.<br><br>
 *My mission is building intelligent systems that make a difference!*
